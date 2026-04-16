@@ -1,6 +1,6 @@
 # PHPMailer
 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/phpmailer.webp" width="48" height="48" alt="PHPMailer">
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/php-mailer.webp" width="48" height="48" alt="PHPMailer">
 
 **PHPMailer 7.0.2** – La bibliothèque PHP la plus populaire et la plus fiable pour envoyer des emails.
 
